@@ -7,7 +7,6 @@
 			"tested_on" : [10.1,10.13]
 		},
 		"ubuntu":{
-			
 			"min_version":14.04,
 			"tested_on" : 16.04
 		}
